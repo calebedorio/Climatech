@@ -6,26 +6,26 @@ import com.google.gson.annotations.SerializedName;
 public class WeatherCurrent {
     @SerializedName("temperature_2m")
     @Expose
-    private double temperature_2m;
+    private double temperature;
 
-    @SerializedName("relative_Humidity_2m")
+    @SerializedName("relative_humidity_2m")
     @Expose
-    private int relative_Humidity_2m;
+    private int relativeHumidity;
 
-    @SerializedName("windSpeed_10m")
+    @SerializedName("wind_speed_10m")
     @Expose
-    private double windSpeed_10m;
+    private double windSpeed;
 
-    public double getTemperature_2m() {
-        return temperature_2m;
+    public double getTemperature() {
+        return temperature;
     }
 
-    public int getRelative_Humidity_2m() {
-        return relative_Humidity_2m;
+    public int getRelativeHumidity() {
+        return relativeHumidity;
     }
 
-    public double getWindSpeed_10m() {
-        return windSpeed_10m;
+    public double getWindSpeed() {
+        return windSpeed;
     }
 
 }
