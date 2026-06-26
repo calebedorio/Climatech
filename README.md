@@ -1,3 +1,4 @@
 # ClimaTec
 Repositório do projeto ClimaTec com acesso à API do site Open-meteo.com
-<img width="332" height="615" alt="image" src="https://github.com/user-attachments/assets/6ac51f0f-31cf-4588-9fd3-b9e0b82e25ea" />
+<img width="368" height="592" alt="image" src="https://github.com/user-attachments/assets/beff0897-f89b-4480-a1da-180200085518" />
+
